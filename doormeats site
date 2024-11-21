@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ігрова спільнота DOORMEATS</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #2e003e; /* Темно-фиолетовый фон */
+            color: #ffffff; /* Белый текст */
+            text-align: center;
+        }
+
+        header {
+            padding: 20px;
+            background-color: #4b0068; /* Немного светлее фон для хедера */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        nav {
+            margin: 20px 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #ffffff;
+            background-color: #5a0078;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+        }
+
+        nav a:hover {
+            background-color: #7a009e;
+        }
+
+        .members {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 600px;
+            background-color: #3c0054; /* Контрастный блок */
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+        }
+
+        .members ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .members ul li {
+            margin: 5px 0;
+        }
+
+        .members ul li a {
+            text-decoration: none;
+            color: #ffffff;
+            padding: 10px;
+            background-color: #5a0078;
+            border-radius: 5px;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+        }
+
+        .members ul li a:hover {
+            background-color: #7a009e;
+        }
+
+        footer {
+            padding: 10px;
+            margin-top: 20px;
+            background-color: #4b0068;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ігрова спільнота DOORMEATS</h1>
+    </header>
+
+    <nav>
+        <a href="contacts.html">КОНТАКТЫ</a>
+    </nav>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Моя страница с изображением</title>
+    </head>
+    <body>
+        <img src="C:\Users\Serjo\Documents\drm.jpg" alt="Описание картинки" width="300" height="200">
+    </body>
+
+    <div class="members">
+        <h2>Участники</h2>
+        <ul>
+            <li><a href="waysiemens.html">Waysiemens</a></li>
+            <li><a href="smakovv.html">Smakovv</a></li>
+            <li><a href="bareski.html">Bareski</a></li>
+            <li><a href="qawoonchik.html">Qawoonchik</a></li>
+            <li><a href="tur-9999.html">tur-9000</a></li>
+            <li><a href="prok484.html">prok484</a></li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 DOORMEATS. Slava Ukraine.</p>
+    </footer>
+</body>
+</html>
